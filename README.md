@@ -1,6 +1,6 @@
 # Power Zone 🏋️
 
-Power Zone é uma landing page institucional para uma academia fictícia, desenvolvida com foco em design moderno, experiência do usuário e organização de código para portfólio.
+Power Zone é uma landing page institucional para uma academia fictícia, desenvolvida com foco em design moderno, experiência do usuário.
 
 O objetivo do projeto é simular uma página real de academia, apresentando:
 - Proposta de valor
