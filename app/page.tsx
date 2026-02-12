@@ -5,7 +5,6 @@ import { FeaturedSection } from '@/components/featured-section'
 import { AboutSection } from '@/components/about-section'
 import { WhyChooseUs } from '@/components/why-choose-us'
 import { PricingSection } from '@/components/pricing-section'
-import { TestimonialsSection } from '@/components/testimonials-section'
 import { NewsletterSection } from '@/components/newsletter-section'
 import { Footer } from '@/components/footer'
 
@@ -19,7 +18,6 @@ export default function Page() {
       <AboutSection />
       <WhyChooseUs />
       <PricingSection />
-      <TestimonialsSection />
       <NewsletterSection />
       <Footer />
     </main>
